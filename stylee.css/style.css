@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+:root
+{
+    --primary-color:#049E78;
+
+    --background-color:#012b25;
+
+    --white-color:#ffffff;
+
+    --heading-text:#000;
+
+    --text-color:#333;
+
+    --green-color:#1ef3ba;
+
+   --mygreen:#0c831f;
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: tan;
+}
+.header-text{
+
+    font-size: 50rem !important;
+
+
+}
